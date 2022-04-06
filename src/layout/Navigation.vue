@@ -51,6 +51,14 @@
             </ul>
         </div>
         <div class="mb-6">
+            <h3>Admin</h3>
+            <ul>
+                <li>
+                    <a href="/docs/admin/table">Table</a>
+                </li>
+            </ul>
+        </div>
+        <div class="mb-6">
             <h3>Other</h3>
             <ul>
                 <li>

@@ -7,6 +7,7 @@ import MacrameIndexes from './docs/macrame/indexes.md'
 import MacrameForms from './docs/macrame/forms.md'
 import MacrameTrees from './docs/macrame/trees.md'
 import MacrameTranslatable from './docs/macrame/translatable.md'
+import AdminTable from './docs/admin/table.md'
 import OtherDevelopment from './docs/other/development.md'
 
 const docs: {[k:string]: ComponentOptions} = {
@@ -18,6 +19,7 @@ const docs: {[k:string]: ComponentOptions} = {
     [`macrame/forms`]: MacrameForms,
     [`macrame/translatable`]: MacrameTranslatable,
     [`macrame/trees`]: MacrameTrees,
+    [`admin/table`]: AdminTable,
     [`other/development`]: OtherDevelopment,
 }
 
